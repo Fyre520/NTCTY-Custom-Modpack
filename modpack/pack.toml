@@ -1,12 +1,12 @@
 name = "NotyCity"
 author = "Fyre520"
-version = "2.0.1"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5b2190a61fc6a50d6de508e92fbe664f1a34e9f131f44dec58b041715ce903ef"
+hash = "3547c25ec1145372b7c4159066d25fcdde7a14cc2bd108cb27683654f60c6004"
 
 [versions]
 fabric = "0.18.4"

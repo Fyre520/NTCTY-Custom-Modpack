@@ -421,6 +421,11 @@ hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
 metafile = true
 
 [[files]]
+file = "mods/sports-1.0.0.pw.toml"
+hash = "c88af1b8da1bbb7251bd67cbd9f0360ad459fd7dca48412b1f253931112effe6"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "e35593590fe988653baebae4638f6c93b5d822351274955cc1288b34fe5429fe"
 metafile = true
