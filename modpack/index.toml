@@ -412,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/sports-1.0.0.pw.toml"
-hash = "fd6c22ba7dd020946a0d8c44aa6e831e10004cfc20efd06f3cf57dd5806cf911"
+hash = "4ffb334b00b6bf502d0c313bc6bb1f7b5c30ec3c80565d574bcf05894d98e099"
 metafile = true
 
 [[files]]
@@ -423,11 +423,6 @@ metafile = true
 [[files]]
 file = "mods/too-many-paintings.pw.toml"
 hash = "d6749124a49143061e91b129eb2a0c854e0b3ca4c835be238b0f3fe3c961271f"
-metafile = true
-
-[[files]]
-file = "mods/vics-point-blank.pw.toml"
-hash = "26f54c6047bdf66731aa008671f12664023ce9250ccb2121ada508306e3489f9"
 metafile = true
 
 [[files]]
