@@ -422,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/sports-1.0.0.pw.toml"
-hash = "c88af1b8da1bbb7251bd67cbd9f0360ad459fd7dca48412b1f253931112effe6"
+hash = "fd6c22ba7dd020946a0d8c44aa6e831e10004cfc20efd06f3cf57dd5806cf911"
 metafile = true
 
 [[files]]
