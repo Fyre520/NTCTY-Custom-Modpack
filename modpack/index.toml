@@ -46,11 +46,6 @@ hash = "33311798d6896aeba3f00fd1ffc57874263232ae0cdc656cd5f12057911bbbce"
 metafile = true
 
 [[files]]
-file = "mods/better-village.pw.toml"
-hash = "e36daad58bfc4d12148e207177bfe2052f4759b6b2bb6beeaeb7d645cae948c6"
-metafile = true
-
-[[files]]
 file = "mods/betterdays.pw.toml"
 hash = "d46575451d68d82636d1c1ac06d68b647113ae13c881cd27f5f74e10bc7c7bf5"
 metafile = true
@@ -138,11 +133,6 @@ metafile = true
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "636945a93f673014109dc9d3768b4b06e8c7506d067be68602478a7244ff98f9"
-metafile = true
-
-[[files]]
-file = "mods/ct-overhaul-village.pw.toml"
-hash = "5e51cc80b4969ffeb48ce7e86b71be19924ef0f7a1642c311381c062062f6849"
 metafile = true
 
 [[files]]
