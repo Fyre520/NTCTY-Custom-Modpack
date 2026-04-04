@@ -474,8 +474,3 @@ metafile = true
 file = "mods/yungs-api.pw.toml"
 hash = "4d98bdba90cdeae788a747bb6fe7d438ba49fdc4eb67c38d4573304eec4a2ef8"
 metafile = true
-
-[[files]]
-file = "resourcepacks/gamingbarns-guns.pw.toml"
-hash = "b4832cdcb394f58d251db03f0708c3f9409c9c562b14e7545be2d45f3888d099"
-metafile = true
