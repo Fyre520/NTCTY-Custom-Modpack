@@ -1,0 +1,13 @@
+name = "Gamingbarn's Guns"
+filename = "Gamingbarn's Guns - Resources V1.23.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gLko9Axn/versions/Rza9bmnP/Gamingbarn%27s%20Guns%20-%20Resources%20V1.23.zip"
+hash-format = "sha512"
+hash = "4dc66fda161be78f9bcb0e68799876e6d16072a7419659ce543ea8b75a31f77750a616c43e53c308815f16a3f0c6d15191fc63ffb3271593ea0e1fbdaed0be17"
+
+[update]
+[update.modrinth]
+mod-id = "gLko9Axn"
+version = "Rza9bmnP"
