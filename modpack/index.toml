@@ -191,11 +191,6 @@ hash = "dce0df1d0cb1a7f05811ba502f3a3de0458e0c5154f1b72ae493a339f3866083"
 metafile = true
 
 [[files]]
-file = "mods/gamingbarns-guns.pw.toml"
-hash = "b4832cdcb394f58d251db03f0708c3f9409c9c562b14e7545be2d45f3888d099"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "95499bb1cfcbfc2a2e2734a7034de0f35c17058048866fdf17fc3a241d9f689e"
 metafile = true
