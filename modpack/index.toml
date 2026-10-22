@@ -100,6 +100,11 @@ hash = "f69f60a9b31b650711e41c0549480776e43bc33165c9042ec2318ce2826fab6b"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-pokemon-badges.pw.toml"
+hash = "f9fca804b47d62948dc79c800723fa4e2e8d114171af6c19c901a59b99fbb073"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
 hash = "7169fd779cd3abbcf4e5bdb0405d9d2dbc3e3ebc3f9de84547c5f52603fc833b"
 metafile = true
@@ -292,6 +297,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4a33f888af603e0859359f44b068854e4148d4fba35ee0818bb977171236a805"
+metafile = true
+
+[[files]]
+file = "mods/more-radical-trainers.pw.toml"
+hash = "070cd04c1d52b913c95837f3cdfd4cb2781cc5528389dd5c23efc86935f92f5f"
 metafile = true
 
 [[files]]
