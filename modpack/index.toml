@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblecuisine.pw.toml"
-hash = "0d699a408fc55d3585c0700cfd3751045ce8f9008a397d9c29b835cfc17a3a50"
+hash = "d96fbc068ccd8ea71087ff6da9f8ecd1069c533d0bc88d0c3f6bd2a5882a67cf"
 metafile = true
 
 [[files]]

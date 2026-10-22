@@ -3,6 +3,6 @@ filename = "cobblecuisine-2.2.0-1.8.1-rc2.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/Fyre520/cuisinebuilds-expanded/main/custom/cobblecuisine-2.2.0-1.8.1-rc2.jar"
+url = "https://raw.githubusercontent.com/Fyre520/NTCTY-Custom-Modpack/main/custom/cobblecuisine-2.2.0-1.8.1-rc2.jar"
 hash-format = "sha256"
 hash = "0788e8fa2ba480447b1aa4d30fddac1ad72fc66b43d51130406ea97aa7e46f50"
