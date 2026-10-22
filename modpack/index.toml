@@ -100,6 +100,16 @@ hash = "7169fd779cd3abbcf4e5bdb0405d9d2dbc3e3ebc3f9de84547c5f52603fc833b"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-spawn-notification.pw.toml"
+hash = "3cf47c5a3e04362d534b2feaa9f7de58a784d1ce5db0389a52c822a8e29d6e27"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-tim-core.pw.toml"
+hash = "70b088d86a3e8df876132f73f079f1bff1eba3c956b1da5af093377c01c62729"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "cfedb1ff05dbdb07b66f416031bc5349617d976da5e2a0750f197bee5d497d23"
 metafile = true
